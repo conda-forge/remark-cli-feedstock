@@ -1,5 +1,5 @@
 context:
-  version: 11.0.0
+  version: "12.0.1"
 
 package:
   name: remark-cli
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/remark-cli/-/remark-cli-${{ version }}.tgz
-  sha256: e80db4dda173a948c0a2bd9c4752ed854e55ec521da5abe7feeb2ebb7092909d
+  sha256: e100dfaffa5b3a50312313391fe493d2d51693f337c4035f6edd4f7090c64815
 
 build:
   number: 0
